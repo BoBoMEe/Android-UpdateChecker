@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UpdateChecker</string>
+    <string name="cheack_prepare">正在检查，请稍后...</string>
+    <string name="cheack_complete_noupdate">当前是最新版本！</string>
+    <string name="cheack_complete_newversion">新版本提示</string>
+
+    <string name="update">立即升级</string>
+    <string name="later">稍后再说</string>
+
+    <string name="download">下载新版本</string>
+    <string name="downloadprepare">开始下载</string>
+    <string name="downloading">正在下载:%1$d%%</string>
+    <string name="downloadsuccess">下载成功</string>
+    <string name="downloadfailue">下载失败</string>
+    <string name="cancel">取消</string>
+    <string name="background">后台下载</string>
+</resources>
